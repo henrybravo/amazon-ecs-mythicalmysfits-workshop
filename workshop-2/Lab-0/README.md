@@ -122,7 +122,7 @@ $ git config --global credential.UseHttpPath true
 There are a number of files and startup scripts we have pre-created for you. They're all in the main repo that you're using, so we'll clone that locally. Run this:
 
 <pre>
-$ git clone https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop.git
+$ git clone https://github.com/henrybravo/amazon-ecs-mythicalmysfits-workshop
 </pre>
 
 3\. Bootstrap

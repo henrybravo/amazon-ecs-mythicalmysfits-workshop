@@ -1,0 +1,32 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt1548846822000",
+            "Effect": "Allow",
+            "Action": [
+                "iam:*",
+                "sns:*",
+                "codecommit:*",
+                "cloudwatch:*",
+                "ecs:*",
+                "codepipeline:*",
+                "cloudformation:*",
+                "ecr:*",
+                "ec2:*",
+                "elasticloadbalancing:*",
+                "codebuild:*",
+                "kms:ListAliases",
+                "dynamodb:*",
+                "logs:*",
+                "s3:*",
+                "Cloud9:*",
+                "ElasticLoadBalancingV2:*",
+                "RDS:*"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}
